@@ -1,4 +1,4 @@
-# View Deployment  - [Cloudy (cloudie.vercel.app)](https://cloudie.vercel.app/)
+# View Deployment  - [Cloudie (cloudie.vercel.app)](https://cloudie.vercel.app/)
 
 # Cloudie - a weather forecasting web app
 
